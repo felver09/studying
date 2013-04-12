@@ -1,0 +1,8 @@
+﻿energy stored in an inductor | W = ½ LI 2
+inductors in series | add the inductances
+inductors in parallel | same as resistors in parallel
+When an inductor with no current flowing through it is first switched into a circuit, it behaves like | an open circuit.
+When a constant, unchanging current is flowing through an ideal inductor, the inductor behaves like | a short circuit.
+steady state current | VS÷R
+calculating i | i = (VS÷R) (1 - e ^ -t÷ (L÷R))
+equation for time constant | t = L/R

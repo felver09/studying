@@ -1,0 +1,12 @@
+﻿capacitors in series | 1/(1/c1 + 1/c2 + 1/c3)
+capacitors in series same as | resistors in parallel
+equation for capacitance | c = Q/v
+The energy W stored by a capacitance C | w = .5*cv^2
+Charge on Capacitors in Series | CT = QT / VT
+Capacitors in Parallel | add their respective capacitances
+Charge and Voltage on Capacitors in Parallel | capacitors in parallel have the same voltage - just like resistors
+A fully discharged capacitor is equivalent to | a short circuit. 
+A fully charged capacitor is equivalent to | an open circuit.
+What is the current during a short? | the current is just the source voltage divided by the resistor.
+What's the steady state voltage in a capacitor w/ one resistor in series? | whole voltage
+what's the current equation for a capacitor? | i = (VS ÷ R) e^(-t ÷ RC)
